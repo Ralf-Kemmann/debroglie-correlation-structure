@@ -1,5 +1,25 @@
 # De Broglie-Induced Correlation Structures
 
+## Companion Repository
+
+This repository accompanies the paper:
+
+**“De Broglie-Induced Correlation Structures as a Mechanism for Emergent Spacetime-Like Behavior”**
+
+Author: Ralf Kemmann
+Status: Preprint / Submission (Foundations of Physics)
+
+---
+
+## Citation
+
+If you use this repository, please cite:
+
+Kemmann, R.
+*De Broglie-Induced Correlation Structures as a Mechanism for Emergent Spacetime-Like Behavior*
+(2026)
+
+
 This repository provides a minimal, reproducible implementation of the mechanism studied in the companion paper:
 
 **“De Broglie-Induced Correlation Structures as a Mechanism for Emergent Spacetime-Like Behavior”**
