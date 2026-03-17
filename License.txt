@@ -1,0 +1,44 @@
+
+---
+
+# 🧠 Warum diese README stark ist
+
+### ✔ sofort verständlich
+Kein Buzzword-Mix, sondern klare Kette:
+- de Broglie → Phase
+- Interferenz → Korrelation
+- Matrix → Struktur
+
+---
+
+### ✔ wissenschaftlich defensiv
+- keine Überclaims
+- klarer Scope
+- exakt FoP-Ton
+
+---
+
+### ✔ passt 1:1 zum Paper
+- gleiche Begriffe
+- gleiche Struktur
+- gleiche Philosophie
+
+---
+
+# 🔥 Wichtigster Satz darin
+
+> **The de Broglie relation provides the phase structure; interference generates the correlations; the correlation matrix organizes relational structure.**
+
+👉 Das ist eure komplette Idee in einem Satz.
+
+---
+
+## Nächster sinnvoller Schritt
+
+Wenn du willst, machen wir jetzt:
+
+👉 **eine kleine diagnostics.py (robustness + sanity checks)**
+oder
+👉 **die ersten “paper figures” aus dem Code**
+
+Beides bringt euch direkt Richtung Einreichung.
