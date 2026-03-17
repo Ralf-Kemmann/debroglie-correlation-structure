@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "De Broglie-Induced Correlation Structures"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: Kemmann
+    given-names: Ralf
+date-released: 2026-03-17
+version: 0.1.0

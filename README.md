@@ -19,6 +19,16 @@ Kemmann, R.
 *De Broglie-Induced Correlation Structures as a Mechanism for Emergent Spacetime-Like Behavior*
 (2026)
 
+## Methodological Position
+
+This repository implements a minimal computational pipeline.
+
+- It does not assume spacetime structure
+- It does not prove physical validity
+- It tests whether a specific mechanism produces stable relational organization
+
+Interpretation is strictly separated from computation.
+
 
 This repository provides a minimal, reproducible implementation of the mechanism studied in the companion paper:
 
